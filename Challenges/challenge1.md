@@ -4,7 +4,7 @@ Task:
 Create a new issue on this repository with the following details to be added to the content of the issue:
 
 ```
-name: Add your name here
-github_user_name: add your github username here
-discord_id: add your discord id here
+name: Amar Singh
+github_user_name: Amar-bbk
+discord_id: Amar Singh#1857
 ```
